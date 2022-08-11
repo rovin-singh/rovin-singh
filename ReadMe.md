@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rovin-singh" alt="rovin-singh" /></a> </p>
 
-- 🔭 I’m currently working on [BizAdvisors]([www.bizadvisors.io](https://www.bizadvisors.io/))
+- 🔭 I’m currently working on [BizAdvisors](https://www.bizadvisors.io/)
 
 - 🌱 I’m currently learning **Reactjs, Redux,**
 
