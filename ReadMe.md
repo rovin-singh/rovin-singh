@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rovin Singh</h1>
 <h3 align="center">MERN Stack Developer</h3>
 <img src="https://imgs.search.brave.com/fc83ez-H7N_n6DLVoaJPQw7lUpQzXFLkm4UI2oKpJdQ/rs:fit:1050:467:1/g:ce/aHR0cHM6Ly9zY290/Y2gtcmVzLmNsb3Vk/aW5hcnkuY29tL2lt/YWdlL3VwbG9hZC93/XzEwNTAscV9hdXRv/Omdvb2QsZl9hdXRv/L3YxNTQwNTQ1NDI2/L3R6czUwbWpybG9w/djg1cjNxanBxLmpw/Zw"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmanishy&label=Profile%20views&color=0e75b6&style=flat" alt="kmanishy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rovin-singh&label=Profile%20views&color=0e75b6&style=flat" alt="rovin singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmanishy" alt="kmanishy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rovin-singh" alt="rovin-singh" /></a> </p>
 
-- 🔭 I’m currently working on [Bonsai](http://obedient-act-7016.vercel.app/)
+- 🔭 I’m currently working on [BizAdvisors](www.bizadvisors.io)
 
 - 🌱 I’m currently learning **Reactjs, Redux,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KManishY](https://github.com/KManishY)
+- 👨‍💻 All of my projects are available at [https://github.com/rovin-singh](https://github.com/rovin-singh)
 
 - 💬 Ask me about **React,JavaScript,html5,Css3,Data structure & Algo**
 
-- 📫 How to reach me **my1000088@gmail.com**
+- 📫 How to reach me **rovin7678@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manish-kumar-b8489a1b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-b8489a1b5" height="30" width="40" /></a>
-<a href="https://codesandbox.com/kmanishy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kmanishy" height="30" width="40" /></a>
+<a href="linkedin.com/in/rovin-singh-0a6a48206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-b8489a1b5" height="30" width="40" /></a>
+<a href="https://codesandbox.com/rovin-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rovin-singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,8 +27,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmanishy&show_icons=true&locale=en&layout=compact" alt="kmanishy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rovin-singh&show_icons=true&locale=en&layout=compact" alt="rovin-singh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmanishy&show_icons=true&locale=en" alt="kmanishy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rovin-singh&show_icons=true&locale=en" alt="rovin-singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmanishy&" alt="kmanishy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rovin-singh&" alt="rovin-singh" /></p>
