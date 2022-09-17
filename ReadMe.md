@@ -4,17 +4,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovin-singh&label=Profile%20views&color=0e75b6&style=flat" alt="rovin singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rovin-singh" alt="rovin-singh" /></a> </p>
 
-- 🔭 I’m currently working on [BizAdvisors](https://www.bizadvisors.io/)
+## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Reactjs, Redux,**
+- 🔭 I’m currently Student of **[Masai School](https://www.masaischool.com/)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rovin-singh](https://github.com/rovin-singh)
+- 🌱 Learnt **Full Stack Web Development from Masai School**
 
-- 💬 Ask me about **React,JavaScript,html5,Css3,Data structure & Algo**
+- 👯 I’m looking to work as **Full Stack Web Developer**
+
+- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/rovin-singh?tab=repositories)**
 
 - 📫 How to reach me **rovin7678@gmail.com**
+
+- 🔭 Know more about me **[Portfolio](https://rovin-singh.netlify.app/)**
+
+- ⚡ Fun fact **I love bike riding and watching movies**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
