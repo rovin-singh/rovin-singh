@@ -73,8 +73,9 @@
 
 
 
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rovin-singh&show_icons=true&locale=en&layout=compact" alt="rovin-singh" /></p>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rovin-singh&show_icons=true&locale=en" alt="rovin-singh" /></p>
 
