@@ -19,6 +19,8 @@
 
 - 🔭 Know more about me **[Portfolio](https://rovin-singh.netlify.app/)**
 
+- 🔭 Know more about me **[Linkedin](https://www.linkedin.com/in/rovin-singh-0a6a48206/)**
+
 - ⚡ Fun fact **I love bike riding and watching movies**
 
 
