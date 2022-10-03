@@ -86,4 +86,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rovin-singh&show_icons=true&locale=en" alt="rovin-singh" /></p>
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rovin-singh&" alt="rovin-singh" /></p>
+
