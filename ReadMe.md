@@ -5,7 +5,7 @@
 - <em>🧐 Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code.</em> <br/>
 - <em>✨ Passionate about building user-centric products.</em> <br/>
 </div>
-<br/>br/>
+<br/><br/>
 <img src="https://imgs.search.brave.com/fc83ez-H7N_n6DLVoaJPQw7lUpQzXFLkm4UI2oKpJdQ/rs:fit:1050:467:1/g:ce/aHR0cHM6Ly9zY290/Y2gtcmVzLmNsb3Vk/aW5hcnkuY29tL2lt/YWdlL3VwbG9hZC93/XzEwNTAscV9hdXRv/Omdvb2QsZl9hdXRv/L3YxNTQwNTQ1NDI2/L3R6czUwbWpybG9w/djg1cjNxanBxLmpw/Zw"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovin-singh&label=Profile%20views&color=0e75b6&style=flat" alt="rovin singh" /> </p>
