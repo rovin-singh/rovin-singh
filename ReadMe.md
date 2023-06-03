@@ -6,7 +6,7 @@
 - <em>✨ Passionate about building user-centric products.</em> <br/>
 </div>
 <br/><br/>
-<img src="https://imgs.search.brave.com/fc83ez-H7N_n6DLVoaJPQw7lUpQzXFLkm4UI2oKpJdQ/rs:fit:1050:467:1/g:ce/aHR0cHM6Ly9zY290/Y2gtcmVzLmNsb3Vk/aW5hcnkuY29tL2lt/YWdlL3VwbG9hZC93/XzEwNTAscV9hdXRv/Omdvb2QsZl9hdXRv/L3YxNTQwNTQ1NDI2/L3R6czUwbWpybG9w/djg1cjNxanBxLmpw/Zw"/>
+<img src="[https://imgs.search.brave.com/fc83ez-H7N_n6DLVoaJPQw7lUpQzXFLkm4UI2oKpJdQ/rs:fit:1050:467:1/g:ce/aHR0cHM6Ly9zY290/Y2gtcmVzLmNsb3Vk/aW5hcnkuY29tL2lt/YWdlL3VwbG9hZC93/XzEwNTAscV9hdXRv/Omdvb2QsZl9hdXRv/L3YxNTQwNTQ1NDI2/L3R6czUwbWpybG9w/djg1cjNxanBxLmpw/Zw](https://media.licdn.com/dms/image/D5603AQGbmpH1esFlGg/profile-displayphoto-shrink_800_800/0/1682660736322?e=2147483647&v=beta&t=o_D1hHHswrERStFqKcOUMpQ-q56zt4HjT7KFqYWkW7Y)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rovin-singh&label=Profile%20views&color=0e75b6&style=flat" alt="rovin singh" /> </p>
 
@@ -25,7 +25,7 @@
 
 - 🔭 Know more about me **[Portfolio](https://rovin-singh.netlify.app/)**
 
-- 🔭 Know more about me **[Linkedin](https://www.linkedin.com/in/rovin-singh-0a6a48206/)**
+- 🔭 Know more about me **[Linkedin](https://www.linkedin.com/in/rovin-singh76/)**
 
 - ⚡ Fun fact **I love bike riding and watching movies**
 
